@@ -55,6 +55,7 @@
                         <div class="car-price">R$5.500.000</div>
                     </div>
                     <button type="button" onclick="window.location.href='carro.html?id=iql'">Ver mais</button>
+                        <link rel="stylesheet" href="escaledeiql.html">
                 </div>
                 <div class="car-card filter-item suv">
                     <img src="img/lineup-suvs-25-escalade-esv-v-l.avif" alt="Escalade-V ESV" class="car-image">
@@ -68,6 +69,7 @@
                         <div class="car-price">R$3.500.000</div>
                     </div>
                      <button type="button" onclick="window.location.href='carro.html?id=esv'">Ver mais</button>
+                        <link rel="stylesheet" href="escaledeiql.html">
                 </div>
                 <div class="car-card filter-item suv">
                     <img src="img/lineup-suvs-25-escalade-v-series-l-v2.avif" alt="Escalade-V" class="car-image">
@@ -81,6 +83,7 @@
                         <div class="car-price">R$1.500.000</div>
                     </div>
                      <button type="button" onclick="window.location.href='carro.html?id=v'">Ver mais</button>
+                        <link rel="stylesheet" href="escaledeiql.html">
                 </div>
                 <div class="car-card filter-item sedan">
                     <img src="img/vehicles-nav-sedans-26-ct4.avif" alt="CT4" class="car-image">
@@ -94,6 +97,7 @@
                         <div class="car-price">R$700.000</div>
                     </div>
                      <button type="button" onclick="window.location.href='carro.html?id=ct4'">Ver mais</button>
+                        <link rel="stylesheet" href="escaledeiql.html">
                 </div>
                 <div class="car-card filter-item sedan">
                     <img src="img/vehicles-sedans-26-ct4-v.avif" alt="CT4 V-Series" class="car-image">
@@ -107,6 +111,7 @@
                         <div class="car-price">R$1.000.000</div>
                     </div>
                      <button type="button" onclick="window.location.href='carro.html?id=ct4v'">Ver mais</button>
+                        <link rel="stylesheet" href="escaledeiql.html">
                 </div>  
             </div>
         </div>
