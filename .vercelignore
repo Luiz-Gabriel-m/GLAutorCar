@@ -1,10 +1,9 @@
-# Ignore the original Windows-cased HTML to force using lowercase index.html
-Index.html
-
 # Editor and OS files
 .vscode/
 .DS_Store
 Thumbs.db
+.git/
+.gitignore
 
 # Node / logs
 node_modules/
